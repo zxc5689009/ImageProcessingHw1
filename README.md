@@ -7,5 +7,3 @@ Q2- Use sobel_mask and Fourier transform to sharp the edge of image
 Q3- Use Gaussian 5*5 mask to smooth the image and remove noises
 ![Logo](Q3_result.JPG)
 
-Q4- Use Gaussian Lowpass Filter to smooth the image
-![Logo](Q4_result.JPG)
